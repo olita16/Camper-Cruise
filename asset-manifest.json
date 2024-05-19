@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Camper-Cruise/static/css/main.7acaea2f.css",
-    "main.js": "/Camper-Cruise/static/js/main.07d3183d.js",
-    "index.html": "/Camper-Cruise/index.html",
-    "main.7acaea2f.css.map": "/Camper-Cruise/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Camper-Cruise/static/js/main.07d3183d.js.map"
+    "main.css": "/camper-cruise-app/static/css/main.7acaea2f.css",
+    "main.js": "/camper-cruise-app/static/js/main.07d3183d.js",
+    "index.html": "/camper-cruise-app/index.html",
+    "main.7acaea2f.css.map": "/camper-cruise-app/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/camper-cruise-app/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
